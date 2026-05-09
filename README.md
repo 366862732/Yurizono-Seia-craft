@@ -1,6 +1,4 @@
-# xiaozi-craft-blue-earth
- xiaozi craft的最新项目，蔚蓝的地球！
-##xiaozi-craft-blue-earth
+## Yurizono Seia craft
 💙 欢迎来到 xiaozi craft 的蓝色星球！
 
 在这颗名为“蓝色地球”的方块大陆上，每一寸土地都值得你驻足。xiaozi craft (blue earth) 是一款精心调制的 Minecraft 整合包，旨在为你带来既熟悉又充满惊喜的沉浸式生存体验。
@@ -83,7 +81,7 @@ xiaozi craft (blue earth) 是一款以视觉享受为核心导向的休闲整合
 
 ## 🔧 技术方案与版本信息
 
-为了在 **xiaozi craft (blue earth)** 中实现真正的无边视野，我们集成了两套顶尖的视觉增强模组，并针对 **Minecraft 1.21** 版本进行了精心适配：
+为了在 **Yurizono Seia craft** 中实现真正的无边视野，我们集成了两套顶尖的视觉增强模组，并针对 **Minecraft 1.21** 版本进行了精心适配：
 
 ### 🔭 **Distant Horizons（远距渲染）**
 - **模组版本：** 1.21.10
@@ -109,7 +107,7 @@ xiaozi craft (blue earth) 是一款以视觉享受为核心导向的休闲整合
 ✅ 单纯想换个视角，重新爱上这个游戏的老玩家
 
 📸 写在最后
-xiaozi craft (blue earth) 不是一个让你“通关”的整合包。
+Yurizono Seia craft 不是一个让你“通关”的整合包。
 它是一个让你愿意慢下来、抬头看、驻足等一场日落的地方。
 
 如果你也曾站在山顶，望着远处的方块世界出神——
